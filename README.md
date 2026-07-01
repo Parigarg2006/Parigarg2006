@@ -1,7 +1,12 @@
 # Hi, I'm Pari Garg 👋
 
 ### Technology & AI Enthusiast | Web Developer
-I am a technology and AI enthusiast with a strong interest in building practical and impactful solutions through current learning and hands-on experience. I have worked on web development projects and have experience with C, Python, and Data Structures & Algorithms, and I am currently learning machine learning to deepen my understanding of intelligent systems. Along with technical skills, I value creativity, problem-solving, teamwork, and clear communication, and I actively seek opportunities to learn, collaborate, and grow through projects, competitions, and internships.
+
+* **Passionate Innovator:** Technology and AI enthusiast with a strong focus on building practical and impactful real-world solutions.
+* **Technical Foundation:** Hands-on experience in web development, along with a solid understanding of C, Python, and Data Structures & Algorithms.
+* **Continuous Learning:** Currently diving deep into Machine Learning to expand my knowledge of intelligent systems.
+* **Core Values:** Highly value creativity, analytical problem-solving, seamless teamwork, and clear communication.
+* **Growth Mindset:** Actively seeking out collaborative opportunities to learn and grow through hands-on projects, hackathons, and software engineering internships.
 
 ---
 
