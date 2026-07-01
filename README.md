@@ -1,10 +1,3 @@
-Arey, my bad! Those `[cite: 1]` things were internal system tags that accidentally leaked into the text code. You definitely don't want those showing up on your clean GitHub profile.
-
-I have completely removed those tags, swapped out the old introduction text with your exact custom intro, ensured your AWS Certified AI Practitioner badge is front and center, and cleaned everything up based on your updated live profile layout shown in **image_0bf7b7.jpg**.
-
-Here is the perfect, clean code block. Just go back to editing your `README.md`, replace everything inside it with this text, and hit commit:
-
-```markdown
 # Hi, I'm Pari Garg 👋
 
 ### Technology & AI Enthusiast | Web Developer
@@ -74,5 +67,3 @@ I am a technology and AI enthusiast with a strong interest in building practical
 
 ### 🔥 Contribution Streak
 ![Pari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parigarg2006&theme=gotham)
-
-```
