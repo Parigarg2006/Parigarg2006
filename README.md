@@ -42,11 +42,11 @@ I am a technology and AI enthusiast with a strong interest in building practical
 ---
 
 ## 📂 Key Projects:
-* **Civic Issue Reporting Platform:** A full-stack web application with GPS-based location tagging and real-time complaint tracking to enhance citizen-authority transparency[cite: 1]. *(HTML, CSS, JS, Python)*[cite: 1]
-* **AI Resume Analyzer:** An AI-powered system utilizing NLP keyword extraction and skill-matching algorithms to provide tailored feedback on job descriptions[cite: 1]. *(Python, NLP, HTML/CSS)*[cite: 1]
+* **Civic Issue Reporting Platform:** A full-stack web application with GPS-based location tagging and real-time complaint tracking to enhance citizen-authority transparency. *(HTML, CSS, JS, Python)*
+* **AI Resume Analyzer:** An AI-powered system utilizing NLP keyword extraction and skill-matching algorithms to provide tailored feedback on job descriptions. *(Python, NLP, HTML/CSS)*
 
 ---
 
 ## 🏆 Achievements & Extra-Curriculars:
 * **1st Prize in Stage Play/Skit at IGNUS'25 (IIT Jodhpur):** Won the top spot representing the Vpaksh Dramatics Society.
-* **Smart India Hackathon (SIH) Participant:** Developed a rapid prototype solution at India's largest national-level hackathon[cite: 1].
+* **Smart India Hackathon (SIH) Participant:** Developed a rapid prototype solution at India's largest national-level hackathon.
