@@ -2,11 +2,11 @@
 
 ### Technology & AI Enthusiast | Web Developer
 
-* **Passionate Innovator:** Technology and AI enthusiast with a strong focus on building practical and impactful real-world solutions.
-* **Technical Foundation:** Hands-on experience in web development, along with a solid understanding of C, Python, and Data Structures & Algorithms.
-* **Continuous Learning:** Currently diving deep into Machine Learning to expand my knowledge of intelligent systems.
-* **Core Values:** Highly value creativity, analytical problem-solving, seamless teamwork, and clear communication.
-* **Growth Mindset:** Actively seeking out collaborative opportunities to learn and grow through hands-on projects, hackathons, and software engineering internships.
+🚀 **AI & Tech Enthusiast** building practical, impactful solutions.
+💻 Experienced in **Web Development, C, Python, and DSA**.
+🧠 Currently exploring **Machine Learning** for intelligent systems.
+🤝 Passionate about **teamwork, creativity, and problem-solving**.
+🌱 Actively seeking collaboration, projects, and **internship opportunities**.
 
 ---
 
