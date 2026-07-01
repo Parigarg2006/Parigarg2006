@@ -1,7 +1,14 @@
+Arey, my bad! Those `[cite: 1]` things were internal system tags that accidentally leaked into the text code. You definitely don't want those showing up on your clean GitHub profile.
+
+I have completely removed those tags, swapped out the old introduction text with your exact custom intro, ensured your AWS Certified AI Practitioner badge is front and center, and cleaned everything up based on your updated live profile layout shown in **image_0bf7b7.jpg**.
+
+Here is the perfect, clean code block. Just go back to editing your `README.md`, replace everything inside it with this text, and hit commit:
+
+```markdown
 # Hi, I'm Pari Garg 👋
 
-### ECE Student | AI & Tech Enthusiast | Full-Stack Developer & Designer
-I am a motivated Electronics & Communication Engineering student with hands-on experience in full-stack web development, open-source contributions, and graphic design[cite: 1]. I enjoy building end-to-end projects integrating AI and responsive design, while actively contributing to tech communities[cite: 1].
+### Technology & AI Enthusiast | Web Developer
+I am a technology and AI enthusiast with a strong interest in building practical and impactful solutions through continuous learning and hands-on experience. I have worked on web development projects and have experience with C, Python, and Data Structures & Algorithms, and I am currently learning machine learning to deepen my understanding of intelligent systems. Along with technical skills, I value creativity, problem-solving, teamwork, and clear communication, and I actively seek opportunities to learn, collaborate, and grow through projects, competitions, and internships.
 
 ---
 
@@ -49,14 +56,14 @@ I am a motivated Electronics & Communication Engineering student with hands-on e
 ---
 
 ## 📂 Key Projects:
-* **Civic Issue Reporting Platform:** A full-stack web application with GPS-based location tagging and real-time complaint tracking to enhance citizen-authority transparency[cite: 1]. *(HTML, CSS, JS, Python)*[cite: 1]
-* **AI Resume Analyzer:** An AI-powered system utilizing NLP keyword extraction and skill-matching algorithms to provide tailored feedback on job descriptions[cite: 1]. *(Python, NLP, HTML/CSS)*[cite: 1]
+* **Civic Issue Reporting Platform:** A full-stack web application with GPS-based location tagging and real-time complaint tracking to enhance citizen-authority transparency. *(HTML, CSS, JS, Python)*
+* **AI Resume Analyzer:** An AI-powered system utilizing NLP keyword extraction and skill-matching algorithms to provide tailored feedback on job descriptions. *(Python, NLP, HTML/CSS)*
 
 ---
 
 ## 🏆 Achievements & Extra-Curriculars:
 * **1st Prize in Stage Play/Skit at IGNUS'25 (IIT Jodhpur):** Won the top spot representing the Vpaksh Dramatics Society.
-* **Smart India Hackathon (SIH) Participant:** Developed a rapid prototype solution at India's largest national-level hackathon[cite: 1].
+* **Smart India Hackathon (SIH) Participant:** Developed a rapid prototype solution at India's largest national-level hackathon.
 
 ---
 
@@ -67,3 +74,5 @@ I am a motivated Electronics & Communication Engineering student with hands-on e
 
 ### 🔥 Contribution Streak
 ![Pari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parigarg2006&theme=gotham)
+
+```
