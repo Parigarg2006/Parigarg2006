@@ -1,7 +1,7 @@
 # Hi, I'm Pari Garg 👋
 
 ### Technology & AI Enthusiast | Web Developer
-I am a technology and AI enthusiast with a strong interest in building practical and impactful solutions through continuous learning and hands-on experience. I have worked on web development projects and have experience with C, Python, and Data Structures & Algorithms, and I am currently learning machine learning to deepen my understanding of intelligent systems. Along with technical skills, I value creativity, problem-solving, teamwork, and clear communication, and I actively seek opportunities to learn, collaborate, and grow through projects, competitions, and internships.
+I am a technology and AI enthusiast with a strong interest in building practical and impactful solutions through current learning and hands-on experience. I have worked on web development projects and have experience with C, Python, and Data Structures & Algorithms, and I am currently learning machine learning to deepen my understanding of intelligent systems. Along with technical skills, I value creativity, problem-solving, teamwork, and clear communication, and I actively seek opportunities to learn, collaborate, and grow through projects, competitions, and internships.
 
 ---
 
@@ -11,10 +11,10 @@ I am a technology and AI enthusiast with a strong interest in building practical
 
 ---
 
-## 🎖️ Certifications & Badges:
-![](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Cisco-Cybersecurity_&_Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Blockchain-Basics-141414?style=for-the-badge&logo=blockchain.com&logoColor=white)
+## 🎖️ Certifications & Badges (Click to View):
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/pari-garg-a07891326/details/certifications/)
+[![Cisco Networking Essentials](https://img.shields.io/badge/Cisco-Networking_Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/pari-garg-a07891326/details/certifications/)
+[![Blockchain Basics](https://img.shields.io/badge/Blockchain-Basics-141414?style=for-the-badge&logo=blockchain.com&logoColor=white)](https://www.linkedin.com/in/pari-garg-a07891326/details/certifications/)
 
 ---
 
@@ -41,13 +41,6 @@ I am a technology and AI enthusiast with a strong interest in building practical
 
 ---
 
-## 🚀 Open Source & Experience:
-* **GirlScript Summer of Code (GSSoC'25):** Active open-source program contributor.
-* **Open Source Connect (OSCI):** Collaborating and contributing to open-source initiatives.
-* **SheFi:** Active community scholar exploring web3 and decentralized technology ecosystems.
-
----
-
 ## 📂 Key Projects:
 * **Civic Issue Reporting Platform:** A full-stack web application with GPS-based location tagging and real-time complaint tracking to enhance citizen-authority transparency. *(HTML, CSS, JS, Python)*
 * **AI Resume Analyzer:** An AI-powered system utilizing NLP keyword extraction and skill-matching algorithms to provide tailored feedback on job descriptions. *(Python, NLP, HTML/CSS)*
@@ -63,7 +56,7 @@ I am a technology and AI enthusiast with a strong interest in building practical
 ## 📊 GitHub Stats:
 
 ### 📈 Overall Statistics
-![Pari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parigarg2006&show_icons=true&theme=gotham)
+<img src="https://github-readme-stats.vercel.app/api?username=Parigarg2006&show_icons=true&theme=gotham" alt="Overall Stats" />
 
 ### 🔥 Contribution Streak
-![Pari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parigarg2006&theme=gotham)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parigarg2006&theme=gotham" alt="Contribution Streak" />
