@@ -35,7 +35,7 @@ I am a technology and AI enthusiast with a strong interest in building practical
 ### 🛠️ Tools & Design Platforms
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&byteColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
@@ -54,9 +54,6 @@ I am a technology and AI enthusiast with a strong interest in building practical
 ---
 
 ## 📊 GitHub Stats:
-
-### 📈 Overall Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Parigarg2006&show_icons=true&theme=gotham" alt="Overall Stats" />
 
 ### 🔥 Contribution Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parigarg2006&theme=gotham" alt="Contribution Streak" />
