@@ -13,7 +13,7 @@ I am a technology and AI enthusiast with a strong interest in building practical
 
 ## 🎖️ Certifications & Badges:
 ![](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Cisco-Cybersecurity_&_Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Cisco-Networking_Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![](https://img.shields.io/badge/Blockchain-Basics-141414?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
 ---
@@ -38,13 +38,6 @@ I am a technology and AI enthusiast with a strong interest in building practical
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 🚀 Open Source & Experience:
-* **GirlScript Summer of Code (GSSoC'25):** Active open-source program contributor.
-* **Open Source Connect (OSCI):** Collaborating and contributing to open-source initiatives.
-* **SheFi:** Active community scholar exploring web3 and decentralized technology ecosystems.
 
 ---
 
