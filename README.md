@@ -35,25 +35,18 @@ I am a technology and AI enthusiast with a strong interest in building practical
 ### 🛠️ Tools & Design Platforms
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&byteColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ## 📂 Key Projects:
-* **Civic Issue Reporting Platform:** A full-stack web application with GPS-based location tagging and real-time complaint tracking to enhance citizen-authority transparency. *(HTML, CSS, JS, Python)*
-* **AI Resume Analyzer:** An AI-powered system utilizing NLP keyword extraction and skill-matching algorithms to provide tailored feedback on job descriptions. *(Python, NLP, HTML/CSS)*
+* **Civic Issue Reporting Platform:** A full-stack web application with GPS-based location tagging and real-time complaint tracking to enhance citizen-authority transparency[cite: 1]. *(HTML, CSS, JS, Python)*[cite: 1]
+* **AI Resume Analyzer:** An AI-powered system utilizing NLP keyword extraction and skill-matching algorithms to provide tailored feedback on job descriptions[cite: 1]. *(Python, NLP, HTML/CSS)*[cite: 1]
 
 ---
 
 ## 🏆 Achievements & Extra-Curriculars:
 * **1st Prize in Stage Play/Skit at IGNUS'25 (IIT Jodhpur):** Won the top spot representing the Vpaksh Dramatics Society.
-* **Smart India Hackathon (SIH) Participant:** Developed a rapid prototype solution at India's largest national-level hackathon.
-
----
-
-## 📊 GitHub Stats:
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parigarg2006&theme=gotham" alt="Contribution Streak" />
+* **Smart India Hackathon (SIH) Participant:** Developed a rapid prototype solution at India's largest national-level hackathon[cite: 1].
