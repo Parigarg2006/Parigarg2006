@@ -38,9 +38,3 @@ I am a technology and AI enthusiast with a strong interest in building practical
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 🏆 Achievements & Extra-Curriculars:
-* **1st Prize in Stage Play/Skit at IGNUS'25 (IIT Jodhpur):** Won the top spot representing the Vpaksh Dramatics Society.
-* **Smart India Hackathon (SIH) Participant:** Developed a rapid prototype solution at India's largest national-level hackathon.
