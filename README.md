@@ -18,7 +18,7 @@ I'm always open to opportunities that challenge me and allow me to contribute me
 
 ---
 
-## 🎖️ Certifications & Badges (Click to View):
+## 🎖️ Certifications & Badges:
 [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/pari-garg-a07891326/details/certifications/)
 [![Cisco Networking Essentials](https://img.shields.io/badge/Cisco-Networking_Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/pari-garg-a07891326/details/certifications/)
 [![Blockchain Basics](https://img.shields.io/badge/Blockchain-Basics-141414?style=for-the-badge&logo=blockchain.com&logoColor=white)](https://www.linkedin.com/in/pari-garg-a07891326/details/certifications/)
