@@ -43,3 +43,9 @@
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+I'm always open to opportunities that challenge me and allow me to contribute meaningfully. Let's connect and create something impactful! 😊
+
+⭐️ Check out my repositories and don't forget to give a star!
