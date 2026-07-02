@@ -14,6 +14,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pari-garg-a07891326/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgarg9556@gmail.com)
 
+I'm always open to opportunities that challenge me and allow me to contribute meaningfully. Let's connect and create something impactful! 😊
+
+⭐️ Check out my repositories and don't forget to give a star!
+
 ---
 
 ## 🎖️ Certifications & Badges (Click to View):
@@ -43,9 +47,3 @@
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-I'm always open to opportunities that challenge me and allow me to contribute meaningfully. Let's connect and create something impactful! 😊
-
-⭐️ Check out my repositories and don't forget to give a star!
