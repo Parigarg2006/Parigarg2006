@@ -16,8 +16,6 @@
 
 I'm always open to opportunities that challenge me and allow me to contribute meaningfully. Let's connect and create something impactful! 😊
 
-⭐️ Check out my repositories and don't forget to give a star!
-
 ---
 
 ## 🎖️ Certifications & Badges (Click to View):
