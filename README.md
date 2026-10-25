@@ -16,12 +16,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Parigarg2006&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Parigarg2006&custom_title=Pari+Garg%27s+GitHub+Stats&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parigarg2006&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e9d5ff" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Parigarg2006&theme=radical&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff" alt="Streak Stats" />
-
-<img src="https://ghchart.rshah.org/a855f7/Parigarg2006" alt="Contribution Graph" width="85%" />
 
 </div>
 
