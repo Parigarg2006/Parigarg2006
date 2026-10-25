@@ -21,7 +21,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Parigarg2006&theme=radical&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff" alt="Streak Stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parigarg2006&bg_color=0d0d1a&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/a855f7/Parigarg2006" alt="Contribution Graph" width="85%" />
 
 </div>
 
