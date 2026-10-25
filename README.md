@@ -6,8 +6,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Parigarg2006&label=Profile%20Views&color=9333ea&style=for-the-badge" alt="profile views" />
 <a href="https://github.com/Parigarg2006?tab=followers"><img src="https://img.shields.io/github/followers/Parigarg2006?style=for-the-badge&logo=github&color=7e22ce&labelColor=1e1b4b" alt="followers" /></a>
-<a href="https://www.linkedin.com/in/pari-garg-a07891326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="linkedin" /></a>
-<a href="mailto:pgarg9556@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-7e22ce?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/pari-garg-a07891326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="linkedin" /></a>
+<a href="mailto:pgarg9556@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="gmail" /></a>
 <a href="https://pari-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7e22ce?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="portfolio" /></a>
 
 </div>
@@ -31,7 +31,7 @@
 
 ## 🧬 About Me
 
-- 🎓 B.Tech **Electronics & Communication Engineering** student at **KIET Group of Institutions, Ghaziabad** (2024–2028)
+- 🎓 B.Tech student at **KIET Group of Institutions, Ghaziabad** (2024–2028)
 - 💻 Strengthening my skills in **Web Development** and **Data Structures & Algorithms**
 - 🤖 Gradually exploring **AI**: Agentic AI and multi-agent frameworks
 - 🤝 **Open-source contributor** at GirlScript Summer of Code (GSSoC '25)
@@ -44,35 +44,35 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-7e22ce?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7e22ce?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7e22ce?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7e22ce?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7e22ce?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-7e22ce?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7e22ce?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React.js-7e22ce?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-7e22ce?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7e22ce?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Backend, Databases & AI
-![REST APIs](https://img.shields.io/badge/REST_APIs-7e22ce?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-7e22ce?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7e22ce?style=for-the-badge&logo=postgresql&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7e22ce?style=for-the-badge)
-![Multi-Agent Frameworks](https://img.shields.io/badge/Multi--Agent_Frameworks-7e22ce?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge)
+![Multi-Agent Frameworks](https://img.shields.io/badge/Multi--Agent_Frameworks-FF6F00?style=for-the-badge)
 
 ### 🛠️ Tools & Concepts
-![Git](https://img.shields.io/badge/Git-7e22ce?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-7e22ce?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-7e22ce?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-7e22ce?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-7e22ce?style=for-the-badge&logo=figma&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-7e22ce?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-7e22ce?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-7e22ce?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF9800?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-E91E63?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-0097A7?style=for-the-badge)
 
 ---
 
@@ -83,12 +83,12 @@
 - Architected an AI-powered stock sentiment engine analyzing real-time financial market signals
 - Integrated a modern frontend interface with automated processing for quick-scan market insights
 
-![Python](https://img.shields.io/badge/Python-4c1d95?style=flat-square&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-4c1d95?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-4c1d95?style=flat-square&logo=javascript&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-4c1d95?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-7e22ce?style=for-the-badge&logo=github)](https://github.com/Parigarg2006/StockPulseAI) [![Live Demo](https://img.shields.io/badge/Live-Demo-a855f7?style=for-the-badge&logo=render&logoColor=white)](https://stockpulseai-frontend.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/Parigarg2006/StockPulseAI) [![Live Demo](https://img.shields.io/badge/Live-Demo-a855f7?style=for-the-badge&logo=render&logoColor=white)](https://stockpulseai-frontend.onrender.com/)
 
 ---
 
@@ -97,14 +97,14 @@
 - Architected and implemented an autonomous multi-agent AI debate platform simulating structured, multi-perspective algorithmic debates
 - Engineered real-time LLM interaction workflows with dynamic prompt orchestration and cross-agent evaluation
 
-![Next.js](https://img.shields.io/badge/Next.js-4c1d95?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4c1d95?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4c1d95?style=flat-square&logo=tailwindcss&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-4c1d95?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-4c1d95?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-4c1d95?style=flat-square&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-7e22ce?style=for-the-badge&logo=github)](https://github.com/Parigarg2006/AlgoDebateAI) [![Live Demo](https://img.shields.io/badge/Live-Demo-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://algo-debate-ai.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/Parigarg2006/AlgoDebateAI) [![Live Demo](https://img.shields.io/badge/Live-Demo-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://algo-debate-ai.vercel.app/)
 
 ---
 
@@ -113,13 +113,6 @@
 | Role | Organization | Duration |
 |:--|:--|:--|
 | 🌍 **Open-Source Contributor** | GirlScript Summer of Code (GSSoC '25) | Jul 2025 – Present |
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize**, Skit Competition at **IGNUS '25, IIT Jodhpur**, representing KIET
-- 🏁 Participated in inter-college hackathons
 
 ---
 
@@ -145,8 +138,8 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-parii2020-7e22ce?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b)](https://leetcode.com/u/parii2020/)
-[![GitHub](https://img.shields.io/badge/GitHub-Parigarg2006-7e22ce?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/Parigarg2006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/parii2020/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/Parigarg2006)
 
 </div>
 
@@ -156,9 +149,8 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-pgarg9556@gmail.com-7e22ce?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:pgarg9556@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pari_Garg-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/pari-garg-a07891326/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pari--portfolio--v2-7e22ce?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b)](https://pari-portfolio-v2.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:pgarg9556@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/pari-garg-a07891326/)
 
 <br/>
 
