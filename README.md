@@ -4,11 +4,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Parigarg2006&label=Profile%20Views&color=9333ea&style=for-the-badge" alt="profile views" />
-<a href="https://github.com/Parigarg2006?tab=followers"><img src="https://img.shields.io/github/followers/Parigarg2006?style=for-the-badge&logo=github&color=7e22ce&labelColor=1e1b4b" alt="followers" /></a>
 <a href="https://www.linkedin.com/in/pari-garg-a07891326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="linkedin" /></a>
 <a href="mailto:pgarg9556@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="gmail" /></a>
-<a href="https://pari-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7e22ce?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="portfolio" /></a>
+<a href="https://pari-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="portfolio" /></a>
 
 </div>
 
