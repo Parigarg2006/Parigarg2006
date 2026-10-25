@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Pari+Garg+%F0%9F%91%8B;Web+Developer+%7C+DSA+%7C+Problem+Solver;Building+AI-Powered+Web+Apps;Open-Source+Contributor+%7C+GSSoC+'25" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Pari+Garg+%F0%9F%91%8B;Web+Developer+%26+Problem+Solver;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Agentic+AI;Open-Source+Contributor+%7C+GSSoC+'25" alt="Typing SVG" />
 
 <br/>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/parii2020/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/parigarg_2020/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/Parigarg2006)
 
 </div>
