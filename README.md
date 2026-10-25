@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Parigarg2006&custom_title=Pari+Garg%27s+GitHub+Stats&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Parigarg2006&custom_title=Pari+Garg%27s+GitHub+Stats&show_icons=true&hide_rank=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parigarg2006&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e9d5ff" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Parigarg2006&theme=radical&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff" alt="Streak Stats" />
@@ -101,14 +101,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/Parigarg2006/AlgoDebateAI) [![Live Demo](https://img.shields.io/badge/Live-Demo-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://algo-debate-ai.vercel.app/)
-
----
-
-## 💼 Experience & Leadership
-
-| Role | Organization | Duration |
-|:--|:--|:--|
-| 🌍 **Open-Source Contributor** | GirlScript Summer of Code (GSSoC '25) | Jul 2025 – Present |
 
 ---
 
