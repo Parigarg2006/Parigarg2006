@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Parigarg2006&date_format=M%20j%2C%20Y&theme=radical&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=Parigarg2006&theme=radical&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff" alt="Streak Stats" />
 
 </div>
 
