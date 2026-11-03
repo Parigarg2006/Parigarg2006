@@ -12,16 +12,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Parigarg2006&theme=radical&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff" alt="Streak Stats" />
-
-</div>
-
----
-
 ## 🧬 About Me
 
 - 🎓 B.Tech student at **KIET Group of Institutions, Ghaziabad** (2024–2028)
